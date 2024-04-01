@@ -1,0 +1,16 @@
+body {
+    background: rgb(1, 1, 1);
+    background: linear-gradient(144deg, rgba(1, 1, 1, 1) 38%, rgba(188, 83, 196, 1) 88%);
+}
+
+article {
+    background: rgba(24, 28, 37, 0.3);
+}
+
+.logo {
+    max-width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
